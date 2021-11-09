@@ -1,0 +1,1 @@
+<script type="text/javascript">$.getJSON("http://jsonip.com?callback=?", function (data) {SourceCode.Forms.Controls.Web.Label._getInstance($("span[name='Data Label']").attr("id")).SFCLabel('option', "text", data.ip);});</script>
